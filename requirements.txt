@@ -1,0 +1,8 @@
+python-dotenv
+openai
+gradio
+groq
+ipywidgets
+black
+pymongo
+pandas
